@@ -36,5 +36,62 @@ div{
     border: solid 3px #FFFFFF;
 }
 
+.introduction{
+    border-radius: 15px;
+    margin-top: 15px;
+    line-height: 2;
+}
+
+.red{
+    background-color: #FF0000;
+    margin-left: 50px;
+    border-width: 0px 0px 2px 5px;
+    text-align: right;
+}
+
+
+.blue{
+    background-color: #0000FF;
+    text-align: left;
+    margin-right: 50px;
+    border-width: 2px 5px 0px 0px;
+    color: #C4C4C4;
+}
+
+.blue h2{
+    color: #C4C4C4;
+}
+
+.yellow{
+    background-color: #FFFF00;
+    text-align: right;
+    margin-left: 50px;
+    border-width: 0px 0px 2px 5px;
+    color:#707070;
+}
+
+.green{
+    background-color: #00EB00;
+    text-align: left;
+    margin-right: 50px;
+    border-width: 2px 5px 0px 0px;
+}
+
+footer{
+    background: #090979;
+    background: linear-gradient(90deg, #000000 0%, #0000ff 25%, #0066ff 70%, #000000 100%);
+    text-align: right;
+    border-style:none;
+    border: solid 5px #FFFFFF;
+}
+
+footer p{
+    font-size: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+
+}
+
 
 
