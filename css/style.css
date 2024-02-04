@@ -1,5 +1,5 @@
 body{
-    font-family: Arial, Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Arial, Verdana;
     background-color: #000000; 
     color: #FFFFFF;
     margin-top: 20px;
@@ -71,7 +71,7 @@ div{
 }
 
 .green{
-    background-color: #008500;
+    background-color: #00EB00;
     text-align: left;
     margin-right: 50px;
     border-width: 2px 5px 0px 0px;
@@ -81,16 +81,12 @@ footer{
     background: #090979;
     background: linear-gradient(90deg, #000000 0%, #0000ff 25%, #0066ff 70%, #000000 100%);
     text-align: right;
-    border-style:none;
     border: solid 5px #FFFFFF;
 }
 
 footer p{
     font-size: 20px;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    padding-right: 15px;
-
+    padding: 15px 15px 15px 0px;
 }
 
 
